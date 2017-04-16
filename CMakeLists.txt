@@ -45,7 +45,6 @@ target_link_libraries(
         ${PROJECT_SOURCE_DIR}/lib/libavfilter.dylib
         ${PROJECT_SOURCE_DIR}/lib/libavformat.dylib
         ${PROJECT_SOURCE_DIR}/lib/libavutil.dylib
-        ${PROJECT_SOURCE_DIR}/lib/libpostproc.dylib
         ${PROJECT_SOURCE_DIR}/lib/libSDL2.dylib
         ${PROJECT_SOURCE_DIR}/lib/libswresample.dylib
         ${PROJECT_SOURCE_DIR}/lib/libswscale.dylib
