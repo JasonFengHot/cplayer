@@ -33,7 +33,7 @@ set(CMAKE_C_STANDARD 99)
 include_directories(${PROJECT_SOURCE_DIR}/include)
 link_directories(${PROJECT_SOURCE_DIR}/lib)
 
-set(SOURCE_FILES main3.c main4.c)
+set(SOURCE_FILES main3.c main4.c main7.c basemain3.c test.c)
 
 
 add_executable(cplayer ${SOURCE_FILES})
